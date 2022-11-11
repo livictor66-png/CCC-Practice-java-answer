@@ -1,7 +1,7 @@
  #CCC '14 J3 - Double Dice
  
  original PDF: 
- https://github.com/livictor66-png/CCC-practice-and-answer/blob/main/practice/ccc14j3.en.pdf
+ https://github.com/livictor66-png/CCC-practice-Java-answer/blob/main/practice/ccc14j3.en.pdf
  
  按照输入值，取得每次输入的值
 

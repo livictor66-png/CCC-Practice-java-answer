@@ -1,6 +1,6 @@
  #CCC '14 S1 - Party Invitation
  
-Original PDF:  https://github.com/livictor66-png/CCC-practice-and-answer/blob/main/practice/ccc14s1.en.pdf
+Original PDF:  https://github.com/livictor66-png/CCC-practice-Java-answer/blob/main/practice/ccc14s1.en.pdf
  
  思路
 1，取第一行K, 将1-K放入map(hashmap)
